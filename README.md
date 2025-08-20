@@ -1,15 +1,17 @@
-Project Overview :
+🛍️ Vestige Marketing System 
+
+📌 Project Overview :
 
 The Vestige Marketing System is a JSP–Servlet based e-commerce web application.
-It allows users to browse products, add them to the cart, and purchase securely .
+It allows users to browse products, add them to the cart, and purchase securely.
 The system also includes an Admin Panel to manage products, users, and orders.
 
-Features :
+🚀 Features
 🔹 User Module
 
 User Registration & Login
 
-Browse Products (Health Product,SkinCare Product,Agri Product categories)
+Browse Products (Health Product, SkinCare Product, Agri Product categories)
 
 Add to Cart & Buy Now functionality
 
@@ -25,7 +27,7 @@ Product Management (Add/View/Delete Products)
 
 Order Management (View Orders)
 
-Tech Stack :
+🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
@@ -35,7 +37,7 @@ Database: MySQL
 
 Server: Apache Tomcat
 
- Installation & Setup :
+⚙️ Installation & Setup
 
 Clone the repository
 
@@ -58,7 +60,6 @@ Project Structure :
 <img width="480" height="647" alt="Image" src="https://github.com/user-attachments/assets/22416af4-de92-4321-a6b4-466b7e191bc6" />
 
 Project Preview:
- Homepage:
 
  <img width="991" height="453" alt="Image" src="https://github.com/user-attachments/assets/e8aebb68-f960-4efb-9e99-29cf69ccfdf9" />
 
