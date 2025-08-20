@@ -51,7 +51,12 @@ Create a MySQL database and import the vestige.sql file.
 Update database credentials in DBConnection.java.
 
 Deploy the project on Tomcat.
+
 Project Structure :
 
 
 <img width="480" height="647" alt="Image" src="https://github.com/user-attachments/assets/22416af4-de92-4321-a6b4-466b7e191bc6" />
+
+Project Preview:
+ Homepage:
+
