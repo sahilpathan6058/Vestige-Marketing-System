@@ -1,12 +1,13 @@
-🛍️ Vestige Marketing System 
+* Vestige Marketing System 
 
-📌 Project Overview :
+Project Overview :
 
 The Vestige Marketing System is a JSP–Servlet based e-commerce web application.
 It allows users to browse products, add them to the cart, and purchase securely.
 The system also includes an Admin Panel to manage products, users, and orders.
 
-🚀 Features
+ Features :
+ 
 🔹 User Module
 
 User Registration & Login
@@ -27,7 +28,7 @@ Product Management (Add/View/Delete Products)
 
 Order Management (View Orders)
 
-🛠️ Tech Stack
+Tech Stack :
 
 Frontend: HTML, CSS, JavaScript
 
@@ -37,7 +38,7 @@ Database: MySQL
 
 Server: Apache Tomcat
 
-⚙️ Installation & Setup
+ Installation & Setup :
 
 Clone the repository
 
@@ -48,7 +49,7 @@ Import the project into your IDE (Eclipse/IntelliJ).
 
 Configure Apache Tomcat Server.
 
-Create a MySQL database and import the vestige.sql file.
+Create a MySQL database and import the db.sql file.
 
 Update database credentials in DBConnection.java.
 
